@@ -3,26 +3,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "352069"))
+API_ID = int(os.environ.get("API_ID", "37031433"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","35cea1c5e6384f57e914ac9ff5ffd1")
+API_HASH = os.environ.get("API_HASH","a4d6a016d5e6459d0ee9fa4f6ff80f6e")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8309873942:AAHKpbr7GhXOiupMfpdBeNSsF2jBdH1dg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8724045924:AAEFgZOYR-8nIv5bQpOR595O-z30KP8duD0")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extract_txt_new_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Vikastxt_bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "59388712"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "721125119"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-10037678927"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004434796596"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003766078927")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1004434796596")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://princepiax:princea45@cluster0.4kn7hq0.mongodb.net/?appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb://Vikasboss:vikasboss@ac-cbpcvm5-shard-00-00.dxmke9d.mongodb.net:27017,ac-cbpcvm5-shard-00-01.dxmke9d.mongodb.net:27017,ac-cbpcvm5-shard-00-02.dxmke9d.mongodb.net:27017/?ssl=true&replicaSet=atlas-wbb2gt-shard-0&authSource=admin&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-10037660927"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1004434796596"))
 # -----------------------------------------------
 join = '<a href="https://t.me/princepia">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
